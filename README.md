@@ -28,6 +28,12 @@
 
 # Rodando o projeto
 - Com a etapa anterior concluída, basta rodarmos no terminal
+- É importante salientar que precisa criar um arquivo .env, que receberá o hash do token do discord.
+
+```
+    TOKEN=ex3mpl0hashtoken01234...
+```
+
 - Para iniciar o bot:
 ```
     $ python3 ./main.py
